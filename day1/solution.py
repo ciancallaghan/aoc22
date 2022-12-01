@@ -2,9 +2,6 @@ import os
 import sys
 
 file = sys.argv[1]
-first_calories = 0
-second_calories = 0
-third_calories = 0
 calories = 0
 callist = []
 
